@@ -1,4 +1,4 @@
-# 🌌 MIRAI AI Workspace
+# MIRAI AI Workspace
 
 > **Professional AI Development Workspace** for projects, assignments, experiments, and technical solutions developed throughout the **MirAI School of Technology – AI Builder Program**.
 
